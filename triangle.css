@@ -1,0 +1,29 @@
+a{
+    color: black;
+    font-size: 1.5em;
+    text-decoration: none;
+    margin: 10px;
+}
+.nav-bar{
+    text-align: right;
+}
+.title{
+    font-family: 'Pacifico', cursive;
+
+}
+body{
+    
+    background-image: linear-gradient(to right, #44a08d,#093637);
+    color: rgb(46, 39, 39);
+    font-family: 'Cairo', sans-serif;
+}
+.label-align{
+    display:block;
+    margin: 1rem 0 1rem 0;
+}
+.section-align{
+    text-align: center;
+}
+#btn-click{
+    margin-top: 1rem;
+}
