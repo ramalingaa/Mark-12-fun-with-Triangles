@@ -1,11 +1,11 @@
 body{
     
     background-image: linear-gradient(to right, #44a08d,#093637);
-    color: #fff;
+    color: black;
     font-family: 'Cairo', sans-serif;
 }
 a{
-    color: white;
+    color: black;
     font-size: 1.5em;
 }
 .section-align{
@@ -20,6 +20,8 @@ a{
 }
 .title{
     font-family: 'Pacifico', cursive;
+    display: inline;
+
 
 }
 p{
@@ -27,9 +29,11 @@ p{
 }
 #btn-Click{
     width: 130px;
-    height:25px;
+    height:40px;
     border-radius:5px
-    padding: 20px
+    padding: 40px;
+    margin-top: 20px;
+
     
 
 }

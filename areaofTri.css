@@ -11,6 +11,7 @@ a{
     font-family: 'Pacifico', cursive;
     display: inline;
 
+
 }
 body{
     
@@ -21,7 +22,6 @@ body{
 .label-align{
     display:block;
     margin: 1rem 0 1rem 0;
-    font-size: 1.5em;
 }
 .section-align{
     text-align: center;
